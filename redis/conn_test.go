@@ -24,8 +24,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/garyburd/redigo/internal/redistest"
-	"github.com/garyburd/redigo/redis"
+	"github.com/unravelin/redigo/internal/redistest"
+	"github.com/unravelin/redigo/redis"
 )
 
 var writeTests = []struct {
